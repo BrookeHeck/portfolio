@@ -86,11 +86,11 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Full Stack Web Development",
+        "years": "07.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          ""
         ],
         "technologies": [
           "REST API",
@@ -98,25 +98,26 @@
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Node.js",
+          "Express",
+          "React",
+          "Mongo DB"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "United States Air Force",
+        "title": "Air Transportation",
+        "years": "09.2018 - 07.2022",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Leadership",
+          "Communication",
+          "Professionalism",
+          "Logistics",
+          "ICODES",
+          "GATES"
         ]
       }
     ]
