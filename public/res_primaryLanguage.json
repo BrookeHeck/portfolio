@@ -13,10 +13,11 @@
       {
         "title": "Guess the Rainbow",
         "startDate": "2022",
-        "description": "Guess the Rainbow is a fun kids game that requires problem solving to determine the correct combination and order of five different colors. The game was developed as a spin-off of Wordle, but the use of colors allows children who can't read or a person who doesn't speak English to play along as well.",
+        "description": "Guess the Rainbow is a fun kids game that requires problem solving to determine the correct combination and order of five different colors. The game was developed as a spin-off of Wordle, but the use of colors allows children who can't read or a person who doesn't speak English to play along as well. This app was built collaboratively with Rhea Carrillo and Alfredo Orquiz.",
         "images": [
           "images/portfolio/guess-the-rainbow/rainbowGame.png",
-          "images/portfolio/guess-the-rainbow/darkMode.png"
+          "images/portfolio/guess-the-rainbow/darkMode.png",
+          "images/portfolio/guess-the-rainbow/collabGroup.png"
         ],
         "url": "https://brookeheck.github.io/guess-the-rainbow-game/",
         "technologies": [
