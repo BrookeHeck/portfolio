@@ -9,4 +9,6 @@ This site displays information about my coding skills and showcases some of the 
 
 [Deployed Site](https://app.netlify.com/sites/gleaming-swan-e63836/settings/general)
 
+[Unsplash Banner Photo](https://unsplash.com/photos/-RBuQ2PK_L8)
+
 ### Reflections and Comments
