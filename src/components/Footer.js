@@ -29,6 +29,28 @@ class Footer extends Component {
                 }
                 style={{ display: "inline" }}
               >
+                <span
+                  className=""
+                  data-icon=""
+                  data-inline="false"
+                  id={window.$primaryLanguageIconId}
+                ></span>
+              </div>
+              <div 
+                onClick={() =>
+                  this.props.applyPickedLanguage(
+                    window.$secondaryLanguage,
+                    window.$primaryLanguageIconId
+                  )
+                }
+                style={{ display: "inline" }}
+              >
+                <span
+                  className=""
+                  data-icon=""
+                  data-inline="false"
+                  id={window.$secondaryLanguageIconId}
+                ></span>
               </div>
             </div>
             <div className="col">
