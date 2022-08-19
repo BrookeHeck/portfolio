@@ -11,70 +11,74 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Guess the Rainbow",
+        "startDate": "2022",
+        "description": "Guess the Rainbow is a fun kids game that requires problem solving to determine the correct combination and order of five different colors. The game was developed as a spin-off of Wordle, but the use of colors allows children who can't read or a person who doesn't speak English to play along as well.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/guess-the-rainbow/rainbowGame.png",
+          "images/portfolio/guess-the-rainbow/darkMode.png"
         ],
-        "url": "",
+        "url": "https://brookeheck.github.io/guess-the-rainbow-game/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          }
+        ]
+      },
+      {
+        "title": "Odd Duck Products",
+        "startDate": "2022",
+        "description": "I built an app that displays three products and allows a user to vote for one. It records the amount of times each product is displayed and the number of times they vote for that project. The app finishes by displaying the results that were recorded. This app is used by Odd Duck to determine which products that users would be interested in.",
+        "images": [
+          "images/portfolio/odd-duck/oddDuckProducts.png",
+          "images/portfolio/odd-duck/oddDuckCharts.png"
+        ],
+        "url": "https://brookeheck.github.io/odd-duck/",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           }
         ]
       },
       {
         "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "startDate": "2021",
+        "description": "This app showcases the work of a local charity. A user can go on this site to see the donation locations, donors, fundraising events, and how they can help the organization.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/turkey-club/turkeyClub.png",
+          "images/portfolio/turkey-club/turkeyClubHelp.png"
         ],
-        "url": "https://github.com",
+        "url": "http://www.theturkeyclub.org/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           }
         ]
       }
