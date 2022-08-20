@@ -122,6 +122,8 @@ $content-background-color: #159A9C;
       position: absolute;
       top: 0;
       left: 0;
+      object-fit: contain;
+      background-color: #fff
     }
   }
   &__controls {
